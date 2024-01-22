@@ -95,4 +95,9 @@ pandas data frame) any irrelevant rows/columns you may find.
 
 ___
 
-This work process it is estimated that in average, are able to predict 97.09% of the customers correctly
+The analysis should be followed by my medium articles:
+Part 1 - https://medium.com/@joaomaria21996/the-science-of-data-mining-part-1-data-collection-71fea0f4256e
+
+Part 2 - https://medium.com/@joaomaria21996/the-science-of-data-mining-part-2-data-preparation-and-cleaning-e0ace13ba953
+
+Part 3 - https://medium.com/@joaomaria21996/the-science-of-data-mining-part-3-data-clustering-analysis-c147ca74eafc
