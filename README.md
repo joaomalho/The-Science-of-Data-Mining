@@ -1,4 +1,4 @@
-# A2Z Insurance 
+# Clustering Insurance Customers 
 
 ## General Context
 
