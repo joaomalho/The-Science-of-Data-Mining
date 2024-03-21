@@ -1,13 +1,5 @@
 # A2Z Insurance 
 
-**Students per group:** 3 maximum
-
-**Submission date:** 06-January-2023 | 23h59
-
-**Page limit:** 10 pages of content, excluding the cover page, index and appendices.
-
-**Note:** The submission of all Python code developed is mandatory.
-
 ## General Context
 
 Finding new customers is vital in every industry. The process for finding new
